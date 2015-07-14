@@ -1,4 +1,4 @@
-What happens when you initialize a repository Why do you need to do it
+﻿What happens when you initialize a repository Why do you need to do it
 
 greats the .git folder. Ready for adding commits
 
@@ -9,6 +9,8 @@ allow you to only commit the files you have worked on.
 
 How can you use the staging area to make sure you have one commit per logical
 change
+
+by using the git add command to add to the staging area
 
 What are some situations when branches would be helpful in keeping your history
 organized How would branches help
