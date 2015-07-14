@@ -29,3 +29,4 @@ add changes from one branch to the master branch.
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
 
+A faster process.
